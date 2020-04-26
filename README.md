@@ -48,13 +48,34 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(33).pdf">Theory of Games and Economic Behavior</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(34).pdf">Kiselev's Geometry: Planimetry</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(35).pdf">A Course of Pure Mathematics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(36).pdf">Calculus, Volume 2: Multi-Variable Calculus and Linear Algebra, with Applications to Differential Equations and Probability </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(37).pdf">Calculus, Volume 1: One-Variable Calculus, with an Introduction to Linear Algebra</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(38).pdf">Naive set theory</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(39).pdf">Set Theory An Introduction To Independence Proofs </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(40).pdf">Topology from the Differentiable Viewpoint </a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(41).pdf">Foundations of Differential Geometry (Volume 1)</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(42).pdf">Foundations of Differential Geometry (Volume 2) </a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(43).pdf">General Topology </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(44).pdf">Hodge Theory and Complex Algebraic Geometry II </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-mathematics/blob/master/lspm(43).pdf">Hodge Theory and Complex Algebraic Geometry I </a></li>
 
 
 
 </ul>
+
+</br>
